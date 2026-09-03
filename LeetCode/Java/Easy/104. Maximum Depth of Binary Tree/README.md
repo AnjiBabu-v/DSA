@@ -1,6 +1,6 @@
 # 📝 104. Maximum Depth of Binary Tree (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=problem-list-v2&envId=tree)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 89 ms
+- **Memory:** 46.9 MB
 
 ---
 
