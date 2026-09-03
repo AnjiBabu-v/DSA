@@ -1,6 +1,6 @@
 # 📝 111. Minimum Depth of Binary Tree (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/?envType=problem-list-v2&envId=tree)
+🔗 [Problem Link](https://leetcode.com/problems/minimum-depth-of-binary-tree)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
