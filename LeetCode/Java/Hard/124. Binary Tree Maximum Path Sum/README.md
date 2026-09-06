@@ -1,6 +1,6 @@
 # 📝 124. Binary Tree Maximum Path Sum (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/binary-tree-maximum-path-sum/?envType=problem-list-v2&envId=tree)
+🔗 [Problem Link](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 46.6 MB
 
 ---
 
