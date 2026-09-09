@@ -1,6 +1,6 @@
 # 📝 101. Symmetric Tree (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/symmetric-tree/?envType=problem-list-v2&envId=tree)
+🔗 [Problem Link](https://leetcode.com/problems/symmetric-tree/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 43.4 MB
 
 ---
 
