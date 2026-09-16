@@ -1,6 +1,6 @@
 # 📝 349. Intersection of Two Arrays (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/intersection-of-two-arrays/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/intersection-of-two-arrays/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Two Pointers, Binary Search, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 8 ms
+- **Memory:** 45.1 MB
 
 ---
 
