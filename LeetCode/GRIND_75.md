@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 4 / 75 (5.3%)
+- **Completed:** 5 / 75 (6.7%)
 
 ---
 
@@ -62,7 +62,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Reverse Linked List
 - [ ] Linked List Cycle
 - [ ] Merge Two Sorted Lists
-- [ ] Merge k Sorted Lists
+- [x] [Merge k Sorted Lists](./Java/Hard/23. Merge k Sorted Lists/)
 - [x] [Remove Nth Node From End of List](./Java/Medium/19. Remove Nth Node From End of List/)
 - [ ] Reorder List
 
