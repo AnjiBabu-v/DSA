@@ -1,6 +1,6 @@
 # 📝 24. Swap Nodes in Pairs (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/swap-nodes-in-pairs/?envType=problem-list-v2&envId=linked-list)
+🔗 [Problem Link](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Linked List, Recursion
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 67 ms
+- **Memory:** 43.1 MB
 
 ---
 
