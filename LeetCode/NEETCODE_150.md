@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 9 / 150 (6.0%)
+- **Completed:** 10 / 150 (6.7%)
 
 ---
 
@@ -42,7 +42,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Generate Parentheses
 - [ ] Daily Temperatures
 - [ ] Car Fleet
-- [ ] Largest Rectangle in Histogram
+- [x] [Largest Rectangle in Histogram](./Java/Hard/84. Largest Rectangle in Histogram/)
 
 ### 📂 Binary Search
 - [ ] Binary Search
