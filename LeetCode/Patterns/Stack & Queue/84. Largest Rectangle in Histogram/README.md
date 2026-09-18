@@ -1,6 +1,6 @@
 # 📝 84. Largest Rectangle in Histogram (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/largest-rectangle-in-histogram/?envType=problem-list-v2&envId=stack)
+🔗 [Problem Link](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
