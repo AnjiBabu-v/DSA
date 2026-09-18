@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 7 / 100 (7.0%)
+- **Completed:** 8 / 100 (8.0%)
 
 ---
 
@@ -107,7 +107,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Longest Valid Parentheses](./Java/Hard/32. Longest Valid Parentheses/)
 
 ### 📂 Stack & Heap
-- [ ] Min Stack
+- [x] [Min Stack](./Java/Medium/155. Min Stack/)
 - [ ] Daily Temperatures
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream
