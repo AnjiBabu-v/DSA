@@ -1,6 +1,6 @@
 # 📝 530. Minimum Absolute Difference in BST (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/minimum-absolute-difference-in-bst/?envType=problem-list-v2&envId=binary-search-tree)
+🔗 [Problem Link](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 46.9 MB
 
 ---
 
