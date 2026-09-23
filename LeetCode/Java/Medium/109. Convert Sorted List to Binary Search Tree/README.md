@@ -1,6 +1,6 @@
 # 📝 109. Convert Sorted List to Binary Search Tree (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/?envType=problem-list-v2&envId=binary-search-tree)
+🔗 [Problem Link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
