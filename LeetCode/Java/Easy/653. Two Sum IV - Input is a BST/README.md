@@ -1,6 +1,6 @@
 # 📝 653. Two Sum IV - Input is a BST (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/?envType=problem-list-v2&envId=binary-search-tree)
+🔗 [Problem Link](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
