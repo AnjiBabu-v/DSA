@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 13 / 76 (17.1%)
+- **Completed:** 14 / 76 (18.4%)
 
 ---
 
@@ -52,7 +52,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Palindrome Partitioning
 - [ ] Permutations
 - [ ] N-Queens
-- [ ] Sudoku Solver
+- [x] [Sudoku Solver](./Java/Hard/37. Sudoku Solver/)
 - [ ] Word Break
 
 ### 📂 Binary Search
